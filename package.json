@@ -1,0 +1,38 @@
+{
+  "homepage": "https://github.com/brainpoint/gulp-copy-content#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brainpoint/gulp-copy-content.git"
+  },
+  "dependencies": {
+    "bluebird": "^2.3.11",
+    "guid": "^0.0.12",
+    "gulp-declare": "^0.3.0",
+    "gulp-handlebars": "^4.0.0",
+    "gulp-util": "^3.0.0",
+    "gulp-wrap": "^0.13.0",
+    "through2": "^0.6.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "deprecated": false,
+  "description": "copy file content to file",
+  "directories": {},
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "brainpoint",
+      "email": "bpoint.lee@gmail.com"
+    }
+  ],
+  "name": "gulp-copy-content",
+  "scripts": {},
+  "version": "0.0.1"
+}
